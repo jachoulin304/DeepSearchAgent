@@ -1,4 +1,4 @@
 *.env
-.md
+
 /__pycache__
 /agent1
