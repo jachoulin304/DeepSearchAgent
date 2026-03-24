@@ -1,7 +1,7 @@
 # prompts.py
 
 # 1. 測試 Yahoo 搜尋用的關鍵字
-TEST_SEARCH_QUERY = "FPGA-based LSTM accelerator HLS optimization 2026"
+TEST_SEARCH_QUERY = ""
 
 # 2. 專業分析師的指令範本
 RESEARCHER_PROMPT_TEMPLATE = """
